@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "webpack serve",
     "build": "webpack",
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint . --fix"
   },
   
   "devDependencies": {
