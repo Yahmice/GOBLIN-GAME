@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "webpack serve",
-    "build": "webpack"
+    "build": "webpack",
+    "test": "jest"
   },
   
   "devDependencies": {
